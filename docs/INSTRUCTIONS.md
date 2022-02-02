@@ -1,6 +1,31 @@
+# beschrijving
+Ik ben bekend met de principes over composite ne typografie. Dit houdt in symmetrische rangschikking.
+Ik heb ook gebruik gemaakt van visuele hierarchie om de gebruiker de weg aan te geven over de website. 
+Door in de navigatie bar de belangrijkste punten te weergeven en in de main  de minder belangrijke informatie
+heb ik zo gebruik kunnen maken van visuele hierarchie. 
+Verder heb ik in totaal  slechts twee verschillende lettertypes en lettergroottes gebruikt, 
+Voor de typografie heb ik meerdere kleuren gebruikt om de website interactief te maken wanner 
+de gebruik op een button hovert of op een link clickt. 
+
+Ik heb de vragen geanalyseerd : welke informatie is het belangrijkst voor de bezoeker van mijn site? 
+Wat is alleen maar aanvullende informatie? 
+
+## typografie 
+
+Ik heb Roboto Monospace gebruikt in de elementen : <h2> </h2> en <article></article> .
+Bovendien heb ik Roboto ook gebruikt vooor de header,banner, en accentueringen. Op CSS heeft de  Roboto Light 3000 als url: @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+Deze font family is vooral bedoeld voor de bijschriften en de footer.
+
+Corpsgroote kan variëren evenals de interlinie.
+
+
+Voor bodyteksten wordt de Roboto gebruikt.
+Voor  teksten wordt een corpsgrootte van 32px aangeraden met een interlinie van 16px.
 # The start up - layout en compositie
 
-Toon aan hoe de basisprincipes van layout en compositie zijn toegepast in jouw ontwerp.  
+Het toegepaste principe luidt: de hoofdkleur beslaat ongeveer 60 procent van de lay-out, een complementaire kleur maakt 30 procent uit en een derde kleur voegt met 10 procent extra highlights toe. Deze ordening heeft een bijzonder evenwichtig effect op de gebruiker.
+
+Ik heb gebruik gemaakt van white space in de vorm van ruimte tussen de <article></article> elementen.
 
 ## Context
 
